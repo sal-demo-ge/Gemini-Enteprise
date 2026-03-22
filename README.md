@@ -98,4 +98,4 @@ agent. To connect them:
    ```
 2. In your Gemini Enterprise agent configuration, register the deployed
    Agent Engine endpoint as a tool/connector.
-3. The Gemini agent can then delegate all sheet operations to this Claude-powered agent.
+3. The Gemini agent can then delegate all sheet operations to this agent.
