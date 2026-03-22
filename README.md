@@ -9,7 +9,7 @@ updates a Google Sheet — designed to pair with a Gemini Enterprise agent.
 
 - Python 3.11+
 - A Google Cloud project with **Vertex AI API** enabled
-- Gemini 2.5 Pro available in your region (e.g. `us-central1`)
+- Gemini 3.1 Pro available in your region (e.g. `us-central1`)
 - A Google Sheet and OAuth 2.0 credentials
 
 ---
