@@ -1,6 +1,6 @@
 # Google Sheets ADK Agent
 
-A Python ADK agent powered by **Gemini 2.5 Pro on Vertex AI** that reads, writes, and
+A Python ADK agent powered by **Gemini 3.1 Pro on Vertex AI** that reads, writes, and
 updates a Google Sheet — designed to pair with a Gemini Enterprise agent.
 
 ---
